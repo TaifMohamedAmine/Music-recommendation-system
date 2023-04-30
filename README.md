@@ -1,4 +1,4 @@
-# Music-recommendation-system
+# Music-recommendation-system (work in progress) 
 Music recommendation system using spotify api, self organizing maps for clustering with collaborative filtering
 
 >in order to use the main.py file you need to set up your environement .env file : <br>
